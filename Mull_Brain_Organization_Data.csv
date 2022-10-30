@@ -1,0 +1,101 @@
+Superorder,Order,Family,Species,Body Mass,Brain Mass,Telencephalon,Diencephalon,Mesencephalon,Cerebellum,Medulla,Reproductive Mode,Trophic Mode,Ecological Lifestyle
+Holocephali,Chimaeriformes,Callorhinchidae,Callorhinchus milii,2850,3.12,0.67,0.23,0.56,0.70,0.96,Egg-Laying,Lecithotrophic,Shelf
+,,Chimaeridae,Chimaera lignaria,14400,7.24,3.20,0.34,0.61,1.32,1.76,Egg-Laying,Lecithotrophic,Deep
+,,,Hydrolagus bemisi,2145,2.99,1.02,0.22,0.33,0.58,0.83,Egg-Laying,Lecithotrophic,Deep
+,,,Hydrolagus novaezealandiae,1120,2.90,1.22,0.19,0.32,0.51,0.66,Egg-Laying,Lecithotrophic,Deep
+,,Rhinochimaeridae,Harriotta raleighana,2205,3.07,0.51,0.20,0.44,0.42,1.51,Egg-Laying,Lecithotrophic,Deep
+,,,Rhinochimaera pacifica,2975,2.25,0.41,0.13,0.29,0.35,1.07,Egg-Laying,Lecithotrophic,Deep
+Batoidea,Myliobatiformes,Dasyatidae,Dasyatis brevicaudata,39000,30.34,15.13,0.81,3.54,5.80,5.05,Lipid Histotrophy,Matrotrophic,Deep
+,,,Dasyatis centroura,5660,18.27,9.33,0.99,1.59,3.57,2.78,Lipid Histotrophy,Matrotrophic,Shelf
+,,,Dasyatis fluviorum,2950,10.46,5.05,0.40,1.04,2.29,1.68,Lipid Histotrophy,Matrotrophic,Shelf
+,,,Dasyatis thetidis,21000,29.47,15.76,0.84,3.31,4.76,4.80,Lipid Histotrophy,Matrotrophic,Pelagic
+,,,Himantura fai,11380,40.80,23.16,1.44,3.73,7.23,5.23,Lipid Histotrophy,Matrotrophic,Reef
+,,,Neotrygon kuhlii,1370,10.83,6.07,0.49,1.12,1.72,1.43,Lipid Histotrophy,Matrotrophic,Reef
+,,,Pastinachus atrus,15000,23.32,12.45,0.88,2.01,5.13,2.85,Lipid Histotrophy,Matrotrophic,Reef
+,,,Taeniura lymma,360,5.68,3.23,0.26,0.64,0.84,0.71,Lipid Histotrophy,Matrotrophic,Reef
+,,Gymnuridae,Gymnura australis,2890,3.79,1.23,0.20,0.62,0.39,1.35,Lipid Histotrophy,Matrotrophic,Shelf
+,,Myliobatidae,Aetobatus narinari,3200,18.46,11.19,1.10,0.94,2.64,2.58,Lipid Histotrophy,Matrotrophic,Shelf
+,,,Myliobatis freminvillei,5430,12.71,5.57,0.71,1.29,2.86,2.28,Lipid Histotrophy,Matrotrophic,Shelf
+,,,Myliobatis tenuicaudatus,626,5.09,2.59,0.15,0.82,0.74,0.79,Lipid Histotrophy,Matrotrophic,Shelf
+,,Urolophidae,Trygonoptera testacea,1100,3.56,1.61,0.28,0.41,0.58,0.68,Lipid Histotrophy,Matrotrophic,Shelf
+,,,Urolophus bucculentus,270,2.96,1.30,0.17,0.36,0.41,0.55,Lipid Histotrophy,Matrotrophic,Shelf
+,,,Urolophus cruciatus,706,2.46,1.17,0.08,0.37,0.38,0.45,Lipid Histotrophy,Matrotrophic,Shelf
+,,,Urolophus paucimaculatus,70,0.89,0.43,0.06,0.12,0.10,0.19,Lipid Histotrophy,Matrotrophic,Shelf
+,,Urotrygonidae,Urobatis halleri,316,2.71,1.23,0.15,0.33,0.47,0.53,Lipid Histotrophy,Matrotrophic,Shelf
+,Rajiformes,Rajidae,Dentiraja lemprieri,492,1.41,0.48,0.08,0.21,0.24,0.39,Egg-Laying,Lecithotrophic,Shelf
+,,,Dipturus canutus,2850,3.20,1.34,0.25,0.35,0.52,0.75,Egg-Laying,Lecithotrophic,Deep
+,,,Dipturus confusus,1400,1.27,0.37,0.11,0.15,0.19,0.45,Egg-Laying,Lecithotrophic,Shelf
+,,,Dipturus gudgeri,2133,2.68,0.92,0.21,0.32,0.42,0.82,Egg-Laying,Lecithotrophic,Deep
+,,,Dipturus innominatus,1499,0.88,0.30,0.05,0.13,0.13,0.26,Egg-Laying,Lecithotrophic,Deep
+,,,Dipturus polyommata,220,1.61,0.53,0.12,0.22,0.28,0.46,Egg-Laying,Lecithotrophic,Deep
+,,,Raja eglanteria,1100,1.61,0.53,0.12,0.22,0.28,0.46,Egg-Laying,Lecithotrophic,Shelf
+,Rhinopristiformes,Rhinobatidae,Aptychotrema rostrata,700,2.13,0.78,0.14,0.32,0.39,0.50,Lipid Histotrophy,Matrotrophic,Shelf
+,,,Glaucostegus typus,11720,13.63,6.45,0.60,1.28,3.23,2.07,Lipid Histotrophy,Matrotrophic,Reef
+,,,Rhinobatos productus,3620,8.65,3.19,0.73,0.91,1.28,2.55,Yolk-sac Live-bearing,Lecithotrophic,Shelf
+,Torpediniformes,Narcinidae,Narcine tasmaniensis,216,0.52,0.21,0.02,0.08,0.04,0.16,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,Platyrhinidae,Platyrhinoidis triseriata,2030,1.27,0.37,0.11,0.15,0.19,0.45,Yolk-sac Live-bearing,Lecithotrophic,Shelf
+Galeomorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus amblyrhynchos,25540,35.28,22.66,1.67,2.93,4.61,3.41,Placental,Matrotrophic,Reef
+,,,Carcharhinus brachyurus,2185,9.14,5.02,0.45,1.17,1.20,1.31,Placental,Matrotrophic,Pelagic
+,,,Carcharhinus dussumieri,1900,5.52,3.00,0.32,0.56,0.81,0.82,Placental,Matrotrophic,Reef
+,,,Carcharhinus falciformis,97960,51.48,32.68,2.57,4.28,6.45,5.50,Placental,Matrotrophic,Pelagic
+,,,Carcharhinus leucas,72850,42.31,25.68,2.48,2.57,5.94,5.64,Placental,Matrotrophic,Shelf
+,,,Carcharhinus limbatus,1375,6.89,3.75,0.47,0.58,0.83,1.26,Placental,Matrotrophic,Pelagic
+,,,Carcharhinus melanopterus,7650,17.93,10.46,1.11,1.41,2.84,2.11,Placental,Matrotrophic,Reef
+,,,Carcharhinus plumbeus,16400,21.86,11.84,1.58,1.85,3.11,3.48,Placental,Matrotrophic,Shelf
+,,,Carcharhinus sorrah,833,4.69,2.73,0.34,0.52,0.38,0.72,Placental,Matrotrophic,Reef
+,,,Carcharhinus tilstoni,800,6.65,3.66,0.43,0.61,0.74,1.20,Placental,Matrotrophic,Pelagic
+,,,Galeocerdo cuvier,148600,19.85,9.93,1.39,2.34,3.35,2.84,Mucoid Histotrophy,Matrotrophic,Pelagic
+,,,Negaprion acutidens,1740,10.07,5.07,0.56,0.97,1.36,2.11,Placental,Matrotrophic,Reef
+,,,Prionace glauca,108270,22.89,11.36,1.36,3.53,2.51,4.12,Placental,Matrotrophic,Pelagic
+,,,Rhizoprionodon taylori,1426,3.65,1.57,0.32,0.39,0.50,0.87,Placental,Matrotrophic,Pelagic
+,,,Scoliodon laticaudus,746,2.04,0.74,0.31,0.13,0.31,0.54,Placental,Matrotrophic,Shelf
+,,,Triaenodon obesus,16300,15.36,8.73,0.82,1.38,2.44,1.99,Placental,Matrotrophic,Reef
+,,Hemigaleidae,Hemigaleus australiensis,2330,5.17,2.49,0.30,0.67,0.84,0.89,Placental,Matrotrophic,Shelf
+,,Pseudotriakidae,Gollum attenuatus,1045,2.78,1.00,0.13,0.31,0.48,0.86,Oophagy,Matrotrophic,Deep
+,,Scyliorhinidae,Apristurus sinensis,1450,2.79,0.67,0.18,0.24,0.67,1.02,Egg-Laying,Lecithotrophic,Deep
+,,,Asymbolus analis,320,0.94,0.40,0.06,0.12,0.16,0.20,Egg-Laying,Lecithotrophic,Shelf
+,,,Asymbolus rubiginosus,260,0.80,0.32,0.05,0.12,0.15,0.16,Egg-Laying,Lecithotrophic,Deep
+,,,Bythaelurus dawsoni,200,0.84,0.26,0.04,0.14,0.17,0.23,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,,Cephaloscyllium albipinnum,1067,1.06,0.48,0.11,0.10,0.13,0.25,Egg-Laying,Lecithotrophic,Deep
+,,,Cephaloscyllium isabellum,2802,1.78,0.75,0.11,0.23,0.26,0.44,Egg-Laying,Lecithotrophic,Deep
+,,,Cephaloscyllium laticeps,180,0.57,0.27,0.03,0.08,0.07,0.13,Egg-Laying,Lecithotrophic,Shelf
+,,,Figaro boardmani,200,0.87,0.33,0.06,0.13,0.15,0.20,Egg-Laying,Lecithotrophic,Deep
+,,Sphyrnidae,Sphyrna lewini,25000,47.03,25.28,2.09,3.07,11.15,5.44,Placental,Matrotrophic,Pelagic
+,,,Sphyrna mokarran,148500,99.14,65.95,3.36,3.72,18.25,7.86,Placental,Matrotrophic,Pelagic
+,,,Sphyrna zygaena,10320,32.80,19.06,1.29,1.99,7.30,3.16,Placental,Matrotrophic,Pelagic
+,,Triakidae,Galeorhinus galeus,12183,10.38,3.96,0.63,1.78,1.78,2.22,Yolk-sac Live-bearing,Lecithotrophic,Shelf
+,,,Mustelus antarcticus,581,3.84,1.73,0.21,0.55,0.68,0.68,Mucoid Histotrophy,Matrotrophic,Shelf
+,,,Mustelus lenticulatus,2289,5.97,2.45,0.26,0.74,1.04,1.47,Mucoid Histotrophy,Matrotrophic,Shelf
+,,,Triakis semifasciata,1194,3.15,1.09,0.22,0.40,0.71,0.74,Yolk-sac Live-bearing,Lecithotrophic,Shelf
+,Heterodontiformes,Heterdontidae,Heterodontus portusjacksoni,335,1.92,1.03,0.18,0.17,0.23,0.31,Egg-Laying,Lecithotrophic,Reef
+,Lamniformes,Alopiidae,Alopias superciliosus,62730,30.20,8.21,0.95,4.89,9.69,6.46,Oophagy,Matrotrophic,Pelagic
+,,,Alopias vulpinus,7051,11.40,3.03,0.31,1.77,3.51,2.78,Oophagy,Matrotrophic,Pelagic
+,,Lamnidae,Carcharodon carcharias,1628600,36.75,14.28,2.05,5.25,6.49,8.69,Oophagy,Matrotrophic,Pelagic
+,,,Isurus oxyrinchus,186533,25.59,9.65,0.86,4.65,4.36,6.07,Oophagy,Matrotrophic,Pelagic
+,,Odontaspidae,Carcharias taurus,152400,14.25,4.36,1.63,1.35,3.60,3.32,Oophagy,Matrotrophic,Reef
+,,Pseudocarchariidae,Pseudocarcharias kamoharai,3900,4.80,1.59,0.33,0.98,0.77,1.13,Oophagy,Matrotrophic,Pelagic
+,Orectolobiformes,Brachaeluridae,Brachaelurus waddi,690,1.39,0.58,0.06,0.11,0.27,0.37,Yolk-sac Live-bearing,Lecithotrophic,Reef
+,,Ginglymostomatidae,Nebrius ferrugineus,32200,15.16,8.84,0.79,0.67,3.32,1.54,Oophagy,Matrotrophic,Reef
+,,Hemiscyllidae,Chiloscyllium punctatum,700,2.16,1.06,0.12,0.19,0.47,0.32,Egg-Laying,Lecithotrophic,Reef
+,,,Hemiscyllium ocellatum,600,1.96,1.02,0.09,0.12,0.41,0.32,Egg-Laying,Lecithotrophic,Reef
+,,Orectolobidae,Orectolobus maculatus,12300,3.23,1.37,0.20,0.33,0.47,0.86,Yolk-sac Live-bearing,Lecithotrophic,Reef
+,,,Orectolobus ornatus,3580,2.18,0.83,0.11,0.25,0.37,0.63,Yolk-sac Live-bearing,Lecithotrophic,Reef
+,,Rhincodontidae,Rhincodon typus,1388120,35.43,14.95,2.81,2.57,10.44,4.67,Yolk-sac Live-bearing,Lecithotrophic,Pelagic
+Squalimorpha,Hexanchiformes,Hexanchidae,Heptranchias perlo,8344,3.20,0.92,0.25,0.59,0.51,0.93,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,,Notorynchus cepedianus,22171,5.70,1.78,0.31,0.98,0.79,1.84,Yolk-sac Live-bearing,Lecithotrophic,Shelf
+,Pristiophoriformes,Pristiophoridae,Pristiophorus cirratus,1080,1.66,0.33,0.09,0.31,0.33,0.60,Yolk-sac Live-bearing,Lecithotrophic,Shelf
+,,,Pristiophorus nudipinnis,32,0.36,0.06,0.04,0.09,0.04,0.13,Yolk-sac Live-bearing,Lecithotrophic,Shelf
+,Squaliformes,Centrophoridae,Centrophorus harrissoni,1163,2.70,0.72,0.20,0.41,0.55,0.81,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,,Centrophorus squamosus,13800,4.45,1.10,0.30,0.91,0.72,1.42,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,,Deania calcea,2025,3.51,0.70,0.23,0.64,0.69,1.24,Mucoid Histotrophy,Lecithotrophic,Deep
+,,Dalatiidae,Dalatias licha,413,1.11,0.31,0.10,0.19,0.16,0.36,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,Etmopteridae,Etmopterus baxteri,2228,1.92,0.50,0.16,0.24,0.32,0.71,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,,Etmopterus lucifer,197,0.74,0.18,0.06,0.12,0.14,0.24,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,Oxynotidae,Oxynotus bruniensis,2543,2.25,0.74,0.21,0.19,0.54,0.56,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,Somniosidae,Centroscymnus owstonii,2758,3.33,0.72,0.11,0.49,0.67,1.34,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,,Centroselachus crepidater,1050,2.83,0.62,0.21,0.27,0.56,1.17,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,,Proscymnodon plunketi,6513,4.20,1.02,0.25,0.50,0.96,1.47,Mucoid Histotrophy,Matrotrophic,Deep
+,,Squalidae,Cirrhigaleus australis,5367,4.98,1.29,0.39,0.49,1.38,1.43,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,,Squalus acanthias,983,2.36,0.74,0.16,0.35,0.42,0.69,Yolk-sac Live-bearing,Lecithotrophic,Shelf
+,,,Squalus griffini,3980,4.96,1.51,0.29,0.90,0.76,1.50,Yolk-sac Live-bearing,Lecithotrophic,Deep
+,,,Squalus megalops,424,2.24,0.61,0.16,0.40,0.44,0.63,Yolk-sac Live-bearing,Lecithotrophic,Deep
